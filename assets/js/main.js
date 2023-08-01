@@ -127,6 +127,36 @@ const app = {
             singer: 'Madihu, Low G',
             path: './assets/music/song11.mp3',
             image: './assets/img/song11.png'
+        },
+        {
+            name: 'Đợi',
+            singer: 'Vũ.',
+            path: './assets/music/song12.mp3',
+            image: './assets/img/song12.png'
+        },
+        {
+            name: 'Xin lỗi',
+            singer: 'Thắng',
+            path: './assets/music/song13.mp3',
+            image: './assets/img/song13.png'
+        },
+        {
+            name: 'Về Quê',
+            singer: 'Mikelodic, Đặng Thái Bình - RV mùa 3',
+            path: './assets/music/song14.mp3',
+            image: './assets/img/song14.png'
+        },
+        {
+            name: 'đôi mình',
+            singer: 'Chuột Sấm Sét',
+            path: './assets/music/song15.mp3',
+            image: './assets/img/song15.png'
+        },
+        {
+            name: 'Anh Đã Ổn Hơn',
+            singer: 'RPT MCK',
+            path: './assets/music/song16.mp3',
+            image: './assets/img/song16.png'
         }
     ],
 
