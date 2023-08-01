@@ -179,13 +179,13 @@ const app = {
     },
 
     loadConfig() {
-        this.isRandom = this.config.isRandom;
+        this.isRandom = this.config.isRandom || false;
         btnRandom.classList.toggle('btn-active', this.isRandom);
         
-        this.isRepeat = this.config.isRepeat;
+        this.isRepeat = this.config.isRepeat || false;
         btnRepeat.classList.toggle('btn-active', this.isRepeat);
 
-        this.currentIndex = this.config.activeSong;
+        this.currentIndex = this.config.activeSong || 0;
     },
 
     handleEvents () {
