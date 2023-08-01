@@ -157,6 +157,12 @@ const app = {
             singer: 'RPT MCK',
             path: './assets/music/song16.mp3',
             image: './assets/img/song16.png'
+        },
+        {
+            name: 'Chẳng Nói Nên Lời',
+            singer: 'Hoàng Dũng',
+            path: './assets/music/song17.mp3',
+            image: './assets/img/song17.png'
         }
     ],
 
