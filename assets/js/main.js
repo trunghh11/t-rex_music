@@ -153,12 +153,6 @@ const app = {
             image: './assets/img/song13.png'
         },
         {
-            name: 'Về Quê',
-            singer: 'Mikelodic, Đặng Thái Bình - RV mùa 3',
-            path: './assets/music/song14.mp3',
-            image: './assets/img/song14.png'
-        },
-        {
             name: 'đôi mình',
             singer: 'Chuột Sấm Sét',
             path: './assets/music/song15.mp3',
@@ -169,12 +163,6 @@ const app = {
             singer: 'RPT MCK',
             path: './assets/music/song16.mp3',
             image: './assets/img/song16.png'
-        },
-        {
-            name: 'Chẳng Nói Nên Lời',
-            singer: 'Hoàng Dũng',
-            path: './assets/music/song17.mp3',
-            image: './assets/img/song17.png'
         },
 	    {
             name: 'Chắc Vì Mình Chưa Tốt',
