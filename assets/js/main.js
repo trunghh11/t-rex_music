@@ -163,6 +163,12 @@ const app = {
             singer: 'Hoàng Dũng',
             path: './assets/music/song17.mp3',
             image: './assets/img/song17.png'
+        },
+	    {
+            name: 'Chắc Vì Mình Chưa Tốt',
+            singer: 'Thanh Hưng',
+            path: './assets/music/song18.mp3',
+            image: './assets/img/song18.png'
         }
     ],
 
