@@ -169,6 +169,18 @@ const app = {
             singer: 'Thanh Hưng',
             path: './assets/music/song18.mp3',
             image: './assets/img/song18.png'
+        },
+        {
+            name: 'Nụ hôn Bisou',
+            singer: 'Mikelodic',
+            path: './assets/music/song19.mp3',
+            image: './assets/img/song19.png'
+        },
+        {
+            name: 'Young Dumb & Broke',
+            singer: 'Khalid',
+            path: './assets/music/song20.mp3',
+            image: './assets/img/song20.png'
         }
     ],
 
