@@ -63,18 +63,6 @@ const app = {
 
     songs: [
         {
-            name: 'Nụ hôn Bisou',
-            singer: 'Mikelodic',
-            path: './assets/music/song19.mp3',
-            image: './assets/img/song19.png'
-        },
-        {
-            name: 'Young Dumb & Broke',
-            singer: 'Khalid',
-            path: './assets/music/song20.mp3',
-            image: './assets/img/song20.png'
-        },
-        {
             name: 'Vì Anh Đâu Có Biết',
             singer: 'Madihu, Vũ',
             path: './assets/music/song1.mp3',
@@ -176,11 +164,65 @@ const app = {
             path: './assets/music/song17.mp3',
             image: './assets/img/song17.png'
         },
-	    {
-            name: 'Chắc Vì Mình Chưa Tốt',
-            singer: 'Thanh Hưng',
-            path: './assets/music/song18.mp3',
-            image: './assets/img/song18.png'
+        {
+            name: 'Nụ hôn Bisou',
+            singer: 'Mikelodic',
+            path: './assets/music/song19.mp3',
+            image: './assets/img/song19.png'
+        },
+        {
+            name: 'Young Dumb & Broke',
+            singer: 'Khalid',
+            path: './assets/music/song20.mp3',
+            image: './assets/img/song20.png'
+        },
+        {
+            name: '2AM',
+            singer: 'JustaTee, BigDaddy',
+            path: './assets/music/song21.mp3',
+            image: './assets/img/song21.png'
+        },
+        {
+            name: 'Ánh Sao Và Bầu Trời',
+            singer: 'T.R.I',
+            path: './assets/music/song22.mp3',
+            image: './assets/img/song22.png'
+        },
+        {
+            name: 'đưa em về nhàa',
+            singer: 'GREY D, Chillies',
+            path: './assets/music/song23.mp3',
+            image: './assets/img/song23.png'
+        },
+        {
+            name: 'girls like me don\'t cry',
+            singer: 'thuy',
+            path: './assets/music/song24.mp3',
+            image: './assets/img/song24.png'
+        },
+        {
+            name: 'Thói Quen (25 Mét Vuông)',
+            singer: 'Hoàng Dũng, GDucky',
+            path: './assets/music/song25.mp3',
+            image: './assets/img/song25.png'
+        },
+        {
+            name: 'Răng Khôn',
+            singer: 'Phí Phương Anh, RIN9',
+            path: './assets/music/song26.mp3',
+            image: './assets/img/song26.png'
+        },
+        {
+            name: 'Giữa Đại Lộ Đông Tây',
+            singer: 'Uyên Linh',
+            path: './assets/music/song27.mp3',
+            image: './assets/img/song27.png'
+        },
+        {
+            name: 'Bất Bình Thường',
+            singer: 'WHEE!',
+            path: './assets/music/song28.mp3',
+            image: './assets/img/song28.png'
         }
         
     ],
